@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/a1ch3rb/gitops-cert-level-2-examples.git
+    repoURL: https://github.com/a1ch3r/gitops-cert-level-2-examples.git
     targetRevision: HEAD
     path: ./image-updater/example-app/envs/staging/
    
